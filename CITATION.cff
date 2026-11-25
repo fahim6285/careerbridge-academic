@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "CareerBridge Academic"
+abstract: "Source-grounded AI agent for academic job hunting: verifies openings, checks eligibility, maps portal fields, drafts tailored applications and tracks follow-ups."
+type: software
+version: 1.0.0
+date-released: 2026-11-26
+license: MIT
+authors:
+  - family-names: "Shaik"
+    given-names: "Fahim"
+repository-code: "https://github.com/fahim6285/careerbridge-academic"
+keywords:
+  - ai-agent
+  - agent-skill
+  - academic-careers
+  - job-application
+  - higher-education

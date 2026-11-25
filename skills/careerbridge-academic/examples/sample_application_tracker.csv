@@ -1,0 +1,4 @@
+Opportunity_ID,Institution,Position_Title,Posting_Number,Position_Number,Official_Source_URL,Location,Closing_Date,Deadline_Timezone,Date_Checked,Status,Application_URL,Next_Action,Notes
+DEMO-001,Example University,Assistant Professor,EX-2026-1,,https://example.org/careers/demo,Example City,,UTC,2026-01-01,Eligibility checked,https://example.org/careers/demo,Check official deadline,Synthetic fixture only not a real vacancy
+DEMO-002,Sample Institute,Research Fellow,EX-2026-2,,https://example.org/jobs/sample,Example City,2026-12-31,UTC,2026-01-01,Identified,https://example.org/jobs/sample,Review criteria,Synthetic fixture only not a real vacancy
+
