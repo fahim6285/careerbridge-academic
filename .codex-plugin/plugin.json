@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "fahim shaik"
+  },
+  "description": "Source-grounded career strategy and application production for academic faculty, research, postdoctoral and suitable professional consulting roles. Finds and verifies openings; checks eligibility; maps official portal fields; drafts tailored job application materials; audits truthful credentials; tracks submissions; and prepares interviews and follow-ups. Distinct from CV and research-paper production.",
+  "interface": {
+    "capabilities": [],
+    "category": "Other",
+    "defaultPrompt": null,
+    "developerName": "fahim shaik",
+    "displayName": "careerbridge-academic",
+    "longDescription": "Source-grounded career strategy and application production for academic faculty, research, postdoctoral and suitable professional consulting roles. Finds and verifies openings; checks eligibility; maps official portal fields; drafts tailored job application materials; audits truthful credentials; tracks submissions; and prepares interviews and follow-ups. Distinct from CV and research-paper production.",
+    "shortDescription": "Source-grounded career strategy and application production for academic faculty, research, postdoctoral and suitable professional consulting roles. Finds and verifies openings; checks eligibility; maps official portal fields; drafts tailored job application materials; audits truthful credentials; tracks submissions; and prepares interviews and follow-ups. Distinct from CV and research-paper production."
+  },
+  "name": "careerbridge-academic",
+  "version": "1.0.0"
+}
